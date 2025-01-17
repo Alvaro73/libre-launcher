@@ -1,5 +1,11 @@
 # Libre Launcher
 
+![1](https://github.com/user-attachments/assets/7ca47edd-6d79-4143-9f40-ff986da8e3f6)
+
+![2](https://github.com/user-attachments/assets/86f2de1d-00cb-478f-8e69-a78ad84ba633)
+
+![3](https://github.com/user-attachments/assets/e6048236-918e-4d60-ba25-c93a0e8c8ff8)
+
 **Libre Launcher** es un launcher minimalista para Android, diseñado para mantener tu pantalla de inicio limpia y libre de distracciones. Con un enfoque en la simplicidad, utiliza un esquema de colores en blanco y negro y muestra únicamente los nombres de las aplicaciones. Ideal para quienes buscan enfocarse en lo esencial y aumentar su productividad.
 
 ## Características
